@@ -1,0 +1,3 @@
+value_one = float(input("Give me a number: "))
+value_two = float(input("Give me a second number: "))
+value_three = float(input("Give me a third number: "))
